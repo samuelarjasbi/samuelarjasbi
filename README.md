@@ -8,6 +8,8 @@ It was 2017 and I decided to switch to another technology called the Python lang
 It's been 10 years and now with 7 years of professional experience, I realized I can learn much much more and also share my experience with great teams and as result learn from them and grow.
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/arjasbi/)
+
 <!--
 **samuelarjasbi/samuelarjasbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
