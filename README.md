@@ -11,7 +11,7 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/arjasbi/)](https://www.linkedin.com/in/arjasbi/)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=samuelarjasbi&count_private=true&show_icons=true&include_all_commits=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelarjasbi)](https://github.com/samuelarjasbi/github-readme-stats)
 
 <!--
 **samuelarjasbi/samuelarjasbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
