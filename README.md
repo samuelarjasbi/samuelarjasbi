@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Samuel, Since I was 11 years old, I started to learn programming, it has been my passion and it was the cause of starting my journey in the technology field. Over these years I've been interacting with many topics in the technology field but always I focused on the programming world.
+I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Freehand&duration=1000&pause=1000&color=909090&center=true&vCenter=true&width=115&height=27&lines=Samuel+Arjasbi)](https://git.io/typing-svg), Since I was 11 years old, I started to learn programming, it has been my passion and it was the cause of starting my journey in the technology field. Over these years I've been interacting with many topics in the technology field but always I focused on the programming world.
 At the first, I started to work with the Java language and I had great memories and career history with it, working with great teams, great people and seniors also creative juniors. 
 
 It was 2017 and I decided to switch to another technology called the Python language. I can say that was one of the best decisions I ever made. Immediately after learning the basics, I started to deal with the Django framework and switched my career personality from a software developer to a back-end developer because then I was could be able to be more specific and accurate in my profession.
@@ -26,12 +26,10 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelarjasbi&hide=contribs,prs&theme=midnight-purple)](https://github.com/samuelarjasbi/github-readme-stats&hide=contribs,prs&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelarjasbi&hide=css,html,scss,shell&theme=midnight-purple&layout=compact)](https://github.com/samuelarjasbi/github-readme-stats&hide=css,html,scss,shell&theme=midnight-purple&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelarjasbi&hide=contribs,prs&theme=radical)](https://github.com/samuelarjasbi/github-readme-stats&hide=contribs,prs&theme=midnight-purple) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelarjasbi&hide=css,html,scss,shell&theme=radical&layout=compact)](https://github.com/samuelarjasbi/github-readme-stats&hide=css,html,scss,shell&theme=midnight-purple&layout=compact)
 
 
-<img src="https://github.com/samuelarjasbi/samuelarjasbi/blob/main/cat.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="960"  />
+<img src="https://github.com/samuelarjasbi/samuelarjasbi/blob/main/nyan-cat.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="960"  />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sameularjasbi.samuelarjasbi)
 <!--
