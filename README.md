@@ -31,9 +31,7 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelarjasbi&hide=css,html,scss,shell&theme=midnight-purple&layout=compact)](https://github.com/samuelarjasbi/github-readme-stats&hide=css,html,scss,shell&theme=midnight-purple&layout=compact)
 
 
-<img src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="1920" height="1080" />
-
-<img src="[https://github.com/favicon.ico](https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif)" width="1080">
+<img src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="1920"  />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sameularjasbi.samuelarjasbi)
 <!--
