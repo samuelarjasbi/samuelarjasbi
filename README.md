@@ -12,6 +12,8 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelarjasbi&hide=contribs,prs&theme=dark)](https://github.com/samuelarjasbi/github-readme-stats&hide=contribs,prs&theme=dark)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelarjasbi&hide=css,html,scss,shell&theme=dark)](https://github.com/samuelarjasbi/github-readme-stats&hide=css,html,scss,shell&theme=dark)
 
 <!--
