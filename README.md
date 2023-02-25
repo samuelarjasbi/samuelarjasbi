@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1B1B1&center=true&vCenter=true&width=435&height=20&lines=Samuel+Arjasbi)](https://git.io/typing-svg), Since I was 11 years old, I started to learn programming, it has been my passion and it was the cause of starting my journey in the technology field. Over these years I've been interacting with many topics in the technology field but always I focused on the programming world.
+I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=B1B1B1&center=true&vCenter=true&width=200&height=20&lines=Samuel+Arjasbi)](https://git.io/typing-svg), Since I was 11 years old, I started to learn programming, it has been my passion and it was the cause of starting my journey in the technology field. Over these years I've been interacting with many topics in the technology field but always I focused on the programming world.
 At the first, I started to work with the Java language and I had great memories and career history with it, working with great teams, great people and seniors also creative juniors. 
 
 It was 2017 and I decided to switch to another technology called the Python language. I can say that was one of the best decisions I ever made. Immediately after learning the basics, I started to deal with the Django framework and switched my career personality from a software developer to a back-end developer because then I was could be able to be more specific and accurate in my profession.
