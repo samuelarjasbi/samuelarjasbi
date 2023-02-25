@@ -14,7 +14,7 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 
 
 
