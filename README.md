@@ -35,7 +35,10 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 [<img src="https://img.youtube.com/vi/6mb3FyrPOV0/maxresdefault.jpg" width="30%">](https://youtu.be/6mb3FyrPOV0 "BugCast EP2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://i.imgur.com/v92T6Ql.png" width="17%">](https://www.youtube.com/@bugcast_official "BugCast")
 
-![Metrics](/metrics.plugin.lines.history.svg)
+<p align="center">
+    <img width="200" src="/metrics.plugin.lines.history.svg" alt="">
+</p>
+
 
 
 
