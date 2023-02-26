@@ -31,6 +31,9 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 
 <img src="https://github.com/samuelarjasbi/samuelarjasbi/blob/main/name.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="960"  />
 
+[![Watch the video](https://img.youtube.com/vi/6mb3FyrPOV0/maxresdefault.jpg)](https://youtu.be/6mb3FyrPOV0)
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sameularjasbi.samuelarjasbi)
 <!--
 **samuelarjasbi/samuelarjasbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
