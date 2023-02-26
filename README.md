@@ -26,7 +26,7 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelarjasbi&hide=contribs,prs&theme=radical)](https://github.com/samuelarjasbi/github-readme-stats&hide=contribs,prs&theme=midnight-purple) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelarjasbi&hide=css,html,scss,shell&theme=radical&layout=compact)](https://github.com/samuelarjasbi/github-readme-stats&hide=css,html,scss,shell&theme=midnight-purple&layout=compact)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelarjasbi&hide=contribs,prs&theme=radical)](https://github.com/samuelarjasbi/github-readme-stats&hide=contribs,prs&theme=midnight-purple) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelarjasbi&hide=css,html,scss,shell&theme=radical&layout=compact)](https://github.com/samuelarjasbi/github-readme-stats&hide=css,html,scss,shell&theme=midnight-purple&layout=compact)
 
 
 <img src="https://github.com/samuelarjasbi/samuelarjasbi/blob/main/name.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="960"  />
