@@ -31,18 +31,11 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 
 <img src="https://github.com/samuelarjasbi/samuelarjasbi/blob/main/name.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="960"  />
 
+<div align="center">
 [<img src="https://img.youtube.com/vi/M3JCEj6Ysyg/maxresdefault.jpg" width="30%">](https://youtu.be/M3JCEj6Ysyg "BugCast EP1")
 [<img src="https://img.youtube.com/vi/6mb3FyrPOV0/maxresdefault.jpg" width="30%">](https://youtu.be/6mb3FyrPOV0 "BugCast EP2")
-
-<html>
-<head>
-</head>
-<body>
-    <div id="theimageholder">
-        <img id="theimage" src="youtube_logo.svg"></img>
-    </div>
-</body>
-</html>
+<a href="googl.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/v92T6Ql.png" alt="" width="17%" align="centerright"/></a>
+</div>
 
 
 
