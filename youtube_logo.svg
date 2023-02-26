@@ -2,8 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       
-  
-       <img src="https://i.imgur.com/4COGqPO.jpg" alt="Avatar" data-canonical-src="https://i.imgur.com/4COGqPO.jpg" width="30%" style="border-radius:50%;" />
-    </div>
+      <embed src="https://i.imgur.com/4COGqPO.jpg" width="30%"  />
+      <object data="https://i.imgur.com/4COGqPO.jpg" type="jpg+xml" width="30%"  />
   </foreignObject>
 </svg>
