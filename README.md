@@ -31,8 +31,26 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 
 <img src="https://github.com/samuelarjasbi/samuelarjasbi/blob/main/name.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="960"  />
 
-[<img src="https://img.youtube.com/vi/6mb3FyrPOV0/maxresdefault.jpg" width="30%">](https://youtu.be/6mb3FyrPOV0 "BugCast")
-[<img src="https://img.youtube.com/vi/M3JCEj6Ysyg/maxresdefault.jpg" width="30%">](https://youtu.be/M3JCEj6Ysyg "BugCast")
+[<img src="https://img.youtube.com/vi/M3JCEj6Ysyg/maxresdefault.jpg" width="30%">](https://youtu.be/M3JCEj6Ysyg "BugCast EP1")
+[<img src="https://img.youtube.com/vi/6mb3FyrPOV0/maxresdefault.jpg" width="30%">](https://youtu.be/6mb3FyrPOV0 "BugCast EP2")
+
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          color: white;
+        }
+        a {border-radius: 50%;}
+ </style>
+ <a href="https://www.youtube.com/@bugcast_official"><img            src="https://yt3.googleusercontent.com/PF4lMrTZdn_basQYTUibmG276SBpn36bQLIZ7X33El_thMoNElfUtQNopZjFVlrk1x6tVARDm3s=s88-c-k-c0x00ffffff-no-rj" alt="Avatar" data-      canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="30%" style="border-radius:50%;" ></img></a>
+     
+    
+  </foreignObject>
+</svg>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sameularjasbi.samuelarjasbi)
@@ -50,3 +68,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
