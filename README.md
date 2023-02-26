@@ -34,7 +34,15 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 [<img src="https://img.youtube.com/vi/M3JCEj6Ysyg/maxresdefault.jpg" width="30%">](https://youtu.be/M3JCEj6Ysyg "BugCast EP1")
 [<img src="https://img.youtube.com/vi/6mb3FyrPOV0/maxresdefault.jpg" width="30%">](https://youtu.be/6mb3FyrPOV0 "BugCast EP2")
 
-
+<html>
+<head>
+</head>
+<body>
+    <div id="theimageholder">
+        <img id="theimage" src="youtube_logo.svg"></img>
+    </div>
+</body>
+</html>
 
 
 
