@@ -19,13 +19,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">samuelarjasbi/mohammadarjasbi_website</span>
+                            <span class="diff-handle">samuelarjasbi/knowme</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">samuelarjasbi/arraystest</span>
+                            <span class="diff-handle">samuelarjasbi/open-road</span>
                         </div>
                     </section>
                     <section>
@@ -35,7 +35,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +94.5k</span> <span class="deleted"> -13.8k</span></div>
+                            <div class="diff-stats"><span class="added"> +31.6k</span> <span class="deleted">    -30</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -44,7 +44,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +25.4k</span> <span class="deleted">   -228</span></div>
+                            <div class="diff-stats"><span class="added"> +31.4k</span> <span class="deleted">     -3</span></div>
                             <span> </span>
                         </div>
                     </section>
