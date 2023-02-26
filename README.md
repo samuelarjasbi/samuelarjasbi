@@ -31,8 +31,7 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 
 <img src="https://github.com/samuelarjasbi/samuelarjasbi/blob/main/name.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="960"  />
 
-[![Watch the video](https://img.youtube.com/vi/6mb3FyrPOV0/maxresdefault.jpg)](https://youtu.be/6mb3FyrPOV0)
-
+[<img src="https://img.youtube.com/vi/6mb3FyrPOV0/maxresdefault.jpg" width="50%">](https://youtu.be/6mb3FyrPOV0 "BugCast")
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sameularjasbi.samuelarjasbi)
 <!--
